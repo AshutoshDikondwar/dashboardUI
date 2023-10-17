@@ -82,7 +82,7 @@ const Sidebar = () => {
 
                             <div className='mid_info'>
                                 <div className='profile'>
-                                    <img src="../../public/images/image1.avif" alt="" />
+                                    <img src="./images/p1.jpg" alt="" />
                                 </div>
                                 <div className='info'>
                                     <div>Evano</div>
@@ -114,7 +114,7 @@ const Sidebar = () => {
                             )
                         })}
                          <div className='profile' style={{marginLeft:'18px', cursor:'pointer'}}>
-                                    <img src="../../public/images/image1.avif" alt="" />
+                                    <img src="./images/p1.jpg" alt="" />
                                 </div>
                     </ul>
                 </div>
